@@ -16,7 +16,7 @@ export const PROFILE = {
 };
 
 export const SCHOLAR_STATS = {
-  citations: 45,
+  citations: 52,
   hIndex: 4,
   i10Index: 2,
 };
@@ -51,7 +51,7 @@ export const EDUCATION = [
     location: "Mymensingh, Bangladesh",
     period: "Oct 2023 - Mar 2025",
     gpa: "3.875 / 4.00 (Merit Position: 1st)",
-    details: ["<b>Thesis</b>: Optimization of bioethanol production from cashew apple juice using Response Surface Methodology (RSM)"]
+    details: ["Thesis: Optimization of bioethanol production from cashew apple juice using Response Surface Methodology (RSM)"]
   },
   {
     degree: "Bachelor of Science in Food Engineering",
