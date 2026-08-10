@@ -1,13 +1,13 @@
 export const PROFILE = {
   imageUrl: "/profile.jpg",
   name: "Sarif Istiak Akash",
-  title: "Food Science Researcher | Prospective PhD Student",
-  tagline: "Bioethanol, Phytochemical and Bioactive Compounds Valorization from Agro-Waste",
+  title: "Food & Bioprocess Researcher | Prospective PhD Student",
+  tagline: "Analytical Chemistry & RSM Optimization | Bioethanol, Phytochemical and Bioactive Compounds Valorization from Agro-Waste",
   email: "sarif.istiak.akash@gmail.com",
   secondaryEmail: "akash.23250407@bau.edu.bd",
   phone: "+8801676929657",
   location: "Bangladesh Agricultural University, Mymensingh-2202",
-  cvLink: "/cv.pdf",
+  cvLink: "/cv2.pdf",
   socials: {
     linkedin: "https://www.linkedin.com/in/sarif-istiak-akash/",
     googleScholar: "https://scholar.google.com/citations?user=hj1QhPoAAAAJ&hl=en",
