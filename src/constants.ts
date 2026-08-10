@@ -7,7 +7,7 @@ export const PROFILE = {
   secondaryEmail: "akash.23250407@bau.edu.bd",
   phone: "+8801676929657",
   location: "Bangladesh Agricultural University, Mymensingh-2202",
-  cvLink: "/cv2.pdf",
+  cvLink: "/cv.pdf",
   socials: {
     linkedin: "https://www.linkedin.com/in/sarif-istiak-akash/",
     googleScholar: "https://scholar.google.com/citations?user=hj1QhPoAAAAJ&hl=en",
